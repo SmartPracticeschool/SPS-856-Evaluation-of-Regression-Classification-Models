@@ -17,5 +17,5 @@ pip install seaborn
 pip install scikit-learn
 
 #if using google colab  - no need of installing any modules
-All the required modules are inbuilt
-just download the notebook , upload it in colab ,  run it.
+#All the required modules are inbuilt
+#just download the notebook , upload it in colab ,  run it.
